@@ -1,0 +1,37 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/tati/coding/spa-nuxt/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_01d892af"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/tati/coding/spa-nuxt/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_298fdeea"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "/Users/tati/coding/spa-nuxt/pages/users/index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_5ace32a6"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id",
+    "component": "/Users/tati/coding/spa-nuxt/pages/users/_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_42ca9f56"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/tati/coding/spa-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_21906d74"
+  }
+]
